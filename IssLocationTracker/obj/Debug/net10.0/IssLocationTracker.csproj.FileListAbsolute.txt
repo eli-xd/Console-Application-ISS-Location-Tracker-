@@ -1,0 +1,14 @@
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\bin\Debug\net10.0\IssLocationTracker.exe
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\bin\Debug\net10.0\IssLocationTracker.deps.json
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\bin\Debug\net10.0\IssLocationTracker.runtimeconfig.json
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\bin\Debug\net10.0\IssLocationTracker.dll
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\bin\Debug\net10.0\IssLocationTracker.pdb
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.AssemblyInfoInputs.cache
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.AssemblyInfo.cs
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.dll
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\refint\IssLocationTracker.dll
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.pdb
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\IssLocationTracker.genruntimeconfig.cache
+C:\Users\LOQ\source\repos\IssLocationTracker\IssLocationTracker\obj\Debug\net10.0\ref\IssLocationTracker.dll
